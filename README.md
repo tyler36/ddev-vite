@@ -5,7 +5,7 @@
 - [What is ddev-vite?](#what-is-ddev-vite)
 - [Components of the repository](#components-of-the-repository)
 - [Getting started](#getting-started)
-    - [Automatically start ViteJs](#automatically-start-vitejs)
+  - [Automatically start ViteJs](#automatically-start-vitejs)
 - [How to debug tests (Github Actions)](#how-to-debug-tests-github-actions)
 
 ## What is ddev-vite?
@@ -17,8 +17,6 @@ It is based on the article [Working with Vite in DDEV - an introduction](https:/
 Developers are responsible for installing, maintaining, and running the Vite server. This add-on only exposes the port.
 
 For a full-featured Vite DDEV addon, please use the excellent [torenware/ddev-viteserve](https://github.com/torenware/ddev-viteserve) add-on.
-
-![template button](images/template-button.png)
 
 ## Components of the repository
 
