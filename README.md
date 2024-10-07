@@ -16,8 +16,6 @@ This add-on is a low-config option that exposes Vite's default port from DDEV so
 It is based on the article [Working with Vite in DDEV - an introduction](https://ddev.com/blog/working-with-vite-in-ddev/), by Matthias Andrasch.
 Developers are responsible for installing, maintaining, and running the Vite server. This add-on only exposes the port.
 
-For a full-featured Vite DDEV addon, please use the excellent [torenware/ddev-viteserve](https://github.com/torenware/ddev-viteserve) add-on.
-
 ## Components of the repository
 
 - [config.vite.yaml](config.vite.yaml): configure DDEV to expose the port.
