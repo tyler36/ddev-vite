@@ -32,7 +32,7 @@ This add-on assumes the developer has:
 1. Install the add-on and restart DDEV
 
 ```shell
-ddev get tyler36/ddev-vite
+ddev add-on get tyler36/ddev-vite
 ddev restart
 ```
 
