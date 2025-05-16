@@ -3,3 +3,5 @@ name: ddev-vite
 
 project_files:
   - config.vite.yaml
+
+ddev_version_constraint: '>= v1.24.3'
