@@ -46,7 +46,7 @@ const origin = process.env.DDEV_PRIMARY_URL;
 
 export default defineConfig({
     ...
-    // Adjust Vites dev server for DDEV: https://vitejs.dev/config/server-options.html
+    // Adjust Vite's dev server for DDEV: https://vitejs.dev/config/server-options.html
     server: {
         // The following line is require until the release of https://github.com/vitejs/vite/pull/19241
         cors: { origin },
