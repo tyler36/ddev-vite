@@ -62,7 +62,7 @@ export default defineConfig({
 1. Start Vite inside the container.
 
 ```shell
-ddev npn run dev
+ddev npm run dev
 ```
 
 ### Automatically start ViteJs
